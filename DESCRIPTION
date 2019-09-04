@@ -1,0 +1,11 @@
+Package: testdtbug
+Maintainer: Toby Dylan Hocking <toby.hocking@r-project.org>
+Author: Toby Dylan Hocking
+Version: 2019.9.3
+License: GPL-3
+Title: testthat data.table bug
+Description: testthat data.table bug
+Depends: R (>= 2.14)
+Suggests: testthat, data.table
+
+
